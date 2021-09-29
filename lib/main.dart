@@ -28,7 +28,7 @@ class Kitten {
       required this.price});
 
   final String name;
-  final String imag;
+  final String image;
   final String description;
   final int price;
 }
